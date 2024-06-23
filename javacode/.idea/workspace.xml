@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad4d2b9d-f1d9-4369-a42c-674a3b654456" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hteScEvY3INkfgrk3PQtJe4aG2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ChildGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChildGame" />
+      <module name="chapter08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChildGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad4d2b9d-f1d9-4369-a42c-674a3b654456" name="Default Changelist" comment="" />
+      <created>1718417801672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718417801672</updated>
+      <workItem from="1718417802936" duration="4522000" />
+      <workItem from="1718500461517" duration="1027000" />
+      <workItem from="1718503535491" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-814" y="611" key="FileChooserDialogImpl" timestamp="1718503647275">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state x="-814" y="611" key="FileChooserDialogImpl/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718503647275" />
+    <state width="1008" height="537" key="GridCell.Tab.0.bottom" timestamp="1718421896959">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state width="1008" height="537" key="GridCell.Tab.0.bottom/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718421896959" />
+    <state width="1008" height="537" key="GridCell.Tab.0.center" timestamp="1718421896959">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state width="1008" height="537" key="GridCell.Tab.0.center/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718421896959" />
+    <state width="1008" height="537" key="GridCell.Tab.0.left" timestamp="1718421896959">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state width="1008" height="537" key="GridCell.Tab.0.left/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718421896959" />
+    <state width="1008" height="537" key="GridCell.Tab.0.right" timestamp="1718421896959">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state width="1008" height="537" key="GridCell.Tab.0.right/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718421896959" />
+    <state x="-1080" y="443" key="new project wizard" timestamp="1718503654223">
+      <screen x="-1080" y="0" width="1080" height="1872" />
+    </state>
+    <state x="-1080" y="443" key="new project wizard/0.0.1536.816/-1080.0.1080.1872@-1080.0.1080.1872" timestamp="1718503654223" />
+  </component>
+</project>
